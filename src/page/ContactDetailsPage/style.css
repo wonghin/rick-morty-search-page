@@ -1,0 +1,53 @@
+.character-title-text {
+    font-size: 45px;
+    padding-top: 50px;
+    padding-left: 54px;
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.character-image-container {
+    display: flex;
+    height: 250px;
+}
+
+.character-container {
+    /* width: 50vw; */
+    width: 100vw;
+    height: vmax;
+    background: rgb(0, 0, 0);
+    /* display: flex; */
+}
+
+.character-image {
+    border-radius: 100%;
+    /* width: 185px; */
+    margin-top: 32px;
+    margin-left: 30px;
+    /* width: auto; */
+    max-width: 200px;
+    max-height: 200px;
+
+}
+
+.character-image:after {
+    border: 9px solid #ddd;
+}
+
+.character-personal-details-container {
+    color: aquamarine;
+    font-size: 20px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.character-personal-details {
+    /* margin-left: 30px; */
+    padding-right: 24px;
+
+}
+
+.character-episode-container {
+    /* margin-right: 30px; */
+    padding-right: 24px;
+}

@@ -1,0 +1,27 @@
+.test-container {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.text-container {
+    text-align: left;
+
+}
+
+.test-text {
+    display: flex;
+}
+
+.col-style {
+    background-color: aqua;
+    margin: 10px;
+}
+
+
+.springTest {
+    font-size: 50px;
+
+}
